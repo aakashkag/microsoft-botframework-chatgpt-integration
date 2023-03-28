@@ -11,7 +11,7 @@
 - Clone the repository
 
     ```bash
-    git clone https://github.com/microsoft/botbuilder-samples.git
+    git clone https://github.com/aakashkag/microsoft-botframework-chatgpt-integration.git
     ```
 
 - In .env set OPENAI_API_KEY value: [Get Open API Key here](https://platform.openai.com/account/api-keys)
